@@ -1,0 +1,72 @@
+{
+  "donors": [
+    {
+      "id": "bd09",
+      "nome": "Deacon Sant'Jon",
+      "endereco": "Rua São Pedro",
+      "responsavel": "Tony Stark",
+      "telefone": "(31) 9 9247-5909",
+      "tipo": "Pessoa Física",
+      "documento": "14755538740",
+      "aniversario": "25/11/2004",
+      "status": "Ativo"
+    },
+    {
+      "id": "ad4f",
+      "nome": "Sarah Whitaker",
+      "endereco": "Rua São Pedro",
+      "responsavel": "Tony Stark",
+      "telefone": "(31) 9 9247-5907",
+      "tipo": "Empresa",
+      "documento": "14755538750",
+      "aniversario": "25/11/2010",
+      "status": "Ativo"
+    }
+  ],
+  "beneficiaries": [
+    {
+      "id": "dd17",
+      "nome": "Cleiton",
+      "endereco": "Rua Santo Bento",
+      "responsavel": "Mark Coopeland",
+      "telefone": "(31) 9 9992-5909",
+      "dataNascimento": "25/11/1990",
+      "comorbidades": "Pressão alta",
+      "status": "Ativo"
+    },
+    {
+      "id": "f818",
+      "nome": "Sabrina",
+      "endereco": "Rua Santo Bento",
+      "responsavel": "Mark Coopeland",
+      "telefone": "(31) 9 9992-5909",
+      "dataNascimento": "25/11/1990",
+      "comorbidades": "Pressão alta",
+      "status": "Ativo"
+    }
+  ],
+  "donations": [
+    {
+      "id": "a3b9",
+      "codigo": "003",
+      "item": "Sabonete",
+      "categoria": "Higiene",
+      "dataColeta": "16/05/2024",
+      "dataValidade": "16/05/2029",
+      "doador": "bd09",
+      "fonte": "Física",
+      "quantidade": "50"
+    },
+    {
+      "id": "c54e",
+      "codigo": "003",
+      "item": "Saco Arroz",
+      "categoria": "Alimento",
+      "dataColeta": "16/05/2024",
+      "dataValidade": "16/05/2029",
+      "doador": "bd09",
+      "fonte": "Física",
+      "quantidade": "100"
+    }
+  ]
+}
